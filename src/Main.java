@@ -1,8 +1,13 @@
 import hashing.HashUtils;
+import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args) {
-//      System.out.println("Hello world!");
-        System.out.println(HashUtils.hashStr("thing"));
+
+
+
+
+        System.out.println(number);
     }
 }
